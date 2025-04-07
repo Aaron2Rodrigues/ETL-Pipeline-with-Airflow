@@ -55,7 +55,7 @@ ETL-Pipeline-with-Airflow/
 ## 🖼️ Diagrams
 
 ### 📌 Project Structure
-![Project Structure](assets/diagram1.png)
+![Project Structure](assets/diagram.png)
 
 ### 📌 Output Sample 1
 ![Output Sample 1](assets/diagram2.png)
